@@ -1,0 +1,158 @@
+ body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+header{
+    /* display: flex;
+    color: ; */
+    display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px;
+	background-color: #ffffff;
+	border-bottom: 1px solid #ddd;
+}
+.Sociallogo {
+	height: 270px;
+	margin-right: 20px;
+}
+
+
+.SSTlogo {
+    height: 30px;
+}
+
+.column1 {
+    float: left;
+    width: 70%;
+    #post-form {
+        display: flex;
+        margin-top: 200px;
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+    
+    #post-input {
+        flex-grow: 1;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+    
+    
+
+
+  }
+  
+  /* Clear floats after the columns */
+  .column2 {
+    content: "";
+    display: flex;
+    float: right;
+    width: 30%;
+    #feed-container {
+        float: right;
+        margin-right: 20px;
+        display: flex;
+        align-items: right;
+        justify-content: right;
+        height: 10vh;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        padding: 20px;
+        background-color: #fff;
+        margin-top: 50px;
+    }
+    
+    .post {
+        margin-bottom: 20px;
+        padding: 20px;
+        background-color: #f2f2f2;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        
+    }
+    
+    .post h3 {
+        margin: 0;
+    }
+    
+    .post p {
+        margin: 0;
+        color: #666;
+    }
+    
+    .post-footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 10px;
+    }
+    
+    .post-likes {
+        display: flex;
+        align-items: center;
+    }
+    
+    .like-icon {
+        font-size: 24px;
+        margin-right: 5px;
+    }
+    
+    .post-comments {
+        display: flex;
+        align-items: center;
+        margin-left: auto;
+    }
+    
+    .comment-icon {
+        font-size: 24px;
+        margin-right: 5px;
+    }
+    
+    .comment-form {
+        margin-top: 10px;
+    }
+    
+    .comment-input {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+    
+    .comment-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+    
+    .comment-item {
+        margin-bottom: 10px;
+    }
+    
+    .comment-item h4 {
+        margin: 0;
+    }
+    
+    .comment-item p {
+        margin: 0;
+        color: #666;
+    }
+    
+    @media screen and (max-width: 768px) {
+        #feed-container {
+            margin-top: 20px;
+        }
+    }
+
+
+  } */
+
+/* zzzzzzz */
+
+
+
+  
